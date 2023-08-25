@@ -75,7 +75,7 @@
     }
   },
   "dependencies": {
-    "@jsonhero/json-infer-types": "1.2.x",
+    "@austinbrown34/json-infer-types": "1.2.x",
     "@jsonhero/json-schema-fns": "^0.0.1",
     "ts-pattern": "^3.3.4",
     "lodash.omit": "^4.5.0"

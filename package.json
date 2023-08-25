@@ -75,7 +75,7 @@
     }
   },
   "dependencies": {
-    "git+https://github.com/austinbrown34/schema-infer-types#main": "1.2.x",
+    "@jsonhero/json-infer-types": "github:austinbrown34/json-infer-types#main",
     "@jsonhero/json-schema-fns": "^0.0.1",
     "ts-pattern": "^3.3.4",
     "lodash.omit": "^4.5.0"
